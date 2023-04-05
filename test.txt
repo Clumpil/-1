@@ -1,1 +1,1 @@
-Print ("смешно");
+Print ("smeshno");
